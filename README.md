@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diogo Felipe
-- 👀 I’m interested in ... FrontEnd and mobile.
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
+- <!---👀 I’m interested in ... --->
+- 🌱 I’m currently learning ... JavaScript and Mobile.
+- <!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...  diogof651@gmail.com
 
   ![Snake animation](https://github.com/diogof651/diogof651/blob/output/github-contribution-grid-snake.svg)
