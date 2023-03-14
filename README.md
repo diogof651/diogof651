@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diogo Felipe
 - <!---👀 I’m interested in ... --->
-- 🌱 I’m currently learning ... JavaScript and Mobile.
+- <!--🌱 I’m currently learning ... C and Elixir. -->
 - <!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...  diogof651@gmail.com
 
