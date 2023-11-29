@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diogo Felipe
-- 📫 How to reach me ...  diogof651@gmail.com
+- 📫 How to reach me:  diogof651@gmail.com
  <!---👀 I’m interested in ... --->
  <!--🌱 I’m currently learning ... C and Elixir. -->
  <!---💞️ I’m looking to collaborate on ...--->
