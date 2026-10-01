@@ -31,7 +31,8 @@ Atualmente trabalho com desenvolvimento e manutenção de sistemas corporativos,
 Projeto desenvolvido em Python utilizando a Spotify Web API e PostgreSQL para importação e persistência de dados.
 
 ### 💻 Outros projetos
-Aqui você encontrará projetos de estudo e experimentação com diferentes tecnologias.
+   ### Portal LEDES
+O sistema Portal LEDES trata do gerenciamento do conteúdo de informações do Laboratório de Engenharia de Software da FACOM/UFMS. O portal tem como objetivo o gerenciamento das informações de projetos no laboratório, apresentar a história do laboratório, apresentar os membros (alunos, professores e colaboradores) e conteúdos de notícias (editais abertos, seleção de bolsistas).
 
 ## 📫 Contato
 
