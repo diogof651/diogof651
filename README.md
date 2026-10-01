@@ -14,6 +14,7 @@ Tenho experiência com manutenção e evolução de sistemas utilizados nos seto
 - Python
 - Java
 - Git / GitHub
+- Redis
 
 ## 💼 Experiência
 
